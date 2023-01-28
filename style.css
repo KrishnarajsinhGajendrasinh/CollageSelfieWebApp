@@ -1,0 +1,42 @@
+body
+{
+  background-color:rgb(255, 0, 255);
+}
+
+h1
+{
+    font-size: 20;
+    font-weight: 100;
+    font-family: unset;
+}
+
+h4
+{
+    color: blue; 
+}
+
+#camera
+{
+    width:700;
+    height:500;
+    border-color: yellow;
+
+}
+
+#R1
+{
+    width: 600;
+    height:400;
+}
+
+#R2
+{
+    width:600;
+    height:400;
+}
+
+#R3
+{
+    width:600;
+    height:400;
+}
